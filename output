@@ -1,0 +1,5 @@
+OnInit
+Frame __init__
+<_io.TextIOWrapper name='output' mode='a' encoding='cp936'> A pretend error message
+before MainLoop
+OnExit
